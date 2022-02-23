@@ -12,7 +12,7 @@ An awesome UI library to keep up with the pop culture craze ! where you can keep
 
 ![image](https://user-images.githubusercontent.com/71842251/155232163-0a97d027-75e4-4d99-9fde-cf5ff94468d8.png)
 
-- Click the link below to check it out:
+- Click the link here to check it out:
 https://sauradip007.github.io/Movies-App/
 
 It is currently open source
