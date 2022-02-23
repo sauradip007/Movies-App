@@ -15,7 +15,7 @@ An awesome UI library to keep up with the pop culture craze ! where you can keep
 - Click the link below to check it out:
 https://sauradip007.github.io/Movies-App/
 
-It is currentky open source
+It is currently open source
 - This means you can fork it , clone it and make enhancements to it by creating a new branch
 - If you liked what you saw , do give it a star 🌟 it helps 😄
 
